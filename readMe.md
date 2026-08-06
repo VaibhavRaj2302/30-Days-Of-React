@@ -5,6 +5,7 @@
 <div align="center">
 
   <h1> 30 Days Of React</h1>
+
   <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
@@ -56,13 +57,58 @@
 
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 
-<div>
+<!-- <div>
 <small>Support the <strong>author</strong> to create more educational materials</small> <br />  
 <a href = "https://www.paypal.me/asabeneh"><img src='./images/paypal_lg.png' alt='Paypal Logo' style="width:10%"/></a>
+</div> -->
+
+---
+<div>
+<h2>💖 Sponsors</h2>
+
+<p>Our amazing sponsors for supporting my open-source contribution and the <strong>30 Days of Challenge</strong> series!</p>
+
+<h3>Current Sponsor</h3>
+<hr />
+<div align="center">
+  <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <!-- Dark mode -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-Logo-white.png" />
+      <!-- Light mode (fallback) -->
+      <img src="https://raw.githubusercontent.com/Asabeneh/asabeneh/master/images/Wispr_Flow-logo.png"
+           width="400px"
+           alt="Wispr Flow Logo"
+           title="Wispr Flow" />
+    </picture>
+  </a>
+
+  <h1>
+    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
+      Talk to code, stay in the Flow.
+    </a>
+  </h1>
+
+  <h2>
+    <a href="https://ref.wisprflow.ai/MPMzRGE" target="_blank" rel="noopener noreferrer">
+      Flow is built for devs who live in their tools. Speak and give more context, get better results.
+    </a>
+  </h2>
 </div>
+
 
 ---
 
+<h3>🙌 Become a Sponsor</h3>
+
+<p>You can support this project by becoming a sponsor on <strong><a href="https://github.com/sponsors/asabeneh">GitHub Sponsors</a></strong> or through <strong><a href="https://www.paypal.me/asabeneh">PayPal</a></strong>.</p>
+
+<p>Every contribution, big or small, makes a huge difference. Thank you for your support! 🌟</p>
+
+</div>
+---
+
+- [](#)
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [How to Use Repo](#how-to-use-repo)
@@ -91,7 +137,9 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in 30 days of React programming challenge. In this challenge you will learn everything you need to use to develop a React application. In the end of the challenge you will get a 30DaysOfReact programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/thirtydaysofreact).
+**Congratulations** on deciding to participate in 30 days of React programming challenge. In this challenge you will learn everything you need to use to develop a React application. In the end of the challenge you will get a 30DaysOfReact programming challenge completion certificate. In order to get a certificate, you have to enroll to [DevOsome](https://www.devosome.com/) which is an interactive and engaging online educational platform.
+
+In case you need help or if you would like to help others you may join the [telegram group](https://t.me/thirtydaysofreact).
 
 **A 30DaysOfReact** challenge is a guide for both beginners and advanced JavaScript and React developers. Welcome to 30 Days Of React. React is a JavaScript library. I enjoy using and teaching React and I hope you will do so too.
 In this step by step 30 Days React challenge, you will learn React which is one of most popular user interface JavaScript libraries.
@@ -103,9 +151,11 @@ If you are good at arrays, loops, functions, objects, functional programming, de
 
 Before you dive into this course, you may check the [review](https://t.me/thirtydaysofreact) of 30 Days Of React.
 
-This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you. 
+This challenge is easy to read, written in conversational English, engaging, motivating and at the same time, it is very demanding. You need to allocate much time to finish this challenge. If you are a visual learner, you may get the video lesson on <a href="https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw"> Washera</a> YouTube channel. Subscribe the channel, comment and ask questions on YouTube vides and be proactive, the author will eventually notice you.
 
-The author likes to hear your opinion about the challenge, share your thoughts about the 30DaysOfJavaScript challenge. You can leave your testimonial on this [link](https://testimonial-vdzd.onrender.com/)
+The author likes to hear your opinion about the challenge, share your thoughts about the 30DaysOfJavaScript challenge. You can leave your testimonial on this [link](https://www.asabeneh.com/testimonials)
+
+<strong>Learn with Asabeneh by joining the upcoming [<em>CODING BOOTCAMP</em>](https://docs.google.com/forms/d/e/1FAIpQLSf0oNIYR9XU1DCctfl-pY36KbWse-SQX5aQaUgetqSinFYnmQ/viewform) </strong>
 
 ## Requirements
 
